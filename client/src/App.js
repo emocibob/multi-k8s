@@ -8,7 +8,7 @@ function App() {
     <Router>
       <div>
         <div>
-          <h1>Fib Calculator version 2</h1>
+          <h1>Fib Calculator version Kubernetes</h1>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </div>
